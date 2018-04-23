@@ -14,6 +14,7 @@ int *arr = new int[sise];
 for(int a=0;a<sise;a++){
     cin>>arr[a];
 }
+    cout<<"a";
 for(int a=0;a<sise;a++){
     for(int b=0;b<sise;b++){
         if(arr[a]<arr[b]){
